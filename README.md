@@ -13,7 +13,7 @@ During our venture of setting up and manipulating the database for the company, 
 Using this information we worked towards figuring out how many of the employees at "Pewlett-Hackard" would be retiring and possibly fore-seeing the so called "Silver Tsunami".
 
 ## Results:
-* Firstly, more than `70,000` employees (after removing duplicates) are retiring which is a significant amount considering the company has approximately `300,000` employees.
+* Firstly, more than `70,000` employees ([after removing duplicates](https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/tree/main/Images/Retirement_Titles.png)) are retiring which is a significant amount considering the company has approximately `300,000` employees.
 <img src="https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/blob/main/Images/Unique_Titles.png">
 
 * Secondly, we see that a lot of the upcoming retirees would be holding senior positions. This is to be expected from the image depicted below.
