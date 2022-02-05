@@ -1,8 +1,8 @@
 # RBC-Module-7-Employee-Database-with-SQL
 
 ## Data Lists:
-All the CSV files generated or used for the creation of the Database are located [here.](https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/tree/main/Data)
-All the Queries used for the creation of the Database are located [here.](https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/tree/main/Queries)
+* All the CSV files generated or used for the creation of the Database are located [here.](https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/tree/main/Data)
+* All the Queries used for the creation of the Database are located [here.](https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/tree/main/Queries)
 
 ## Overview:
 We kick off this project with the idea of setting up and manipulation of Databases for a company namely "Pewlett-Hackard".
