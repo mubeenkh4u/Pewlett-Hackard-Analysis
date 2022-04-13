@@ -1,4 +1,4 @@
-# Pewlett_Hackard_Analysis
+# Pewlett-Hackard-Analysis
 
 ## Data Lists:
 * All the `CSV files` generated or used for the creation of the Database are located [here.](https://github.com/mubeenkh4u/RBC-Module-7-Employee-Database-with-SQL/tree/main/Data)
